@@ -6,11 +6,14 @@ body {
 }
 
 h1 {
-  font-family:
+  font-family:Comic Sans MS ;
   font-style: italic;
   color: #000000;
 }
 h2{ 
  font-style: cursive;
- color: #00ced1;
+ color: red;
+}
+p1{
+  font-style:boldtype;
 }
