@@ -6,25 +6,22 @@ body {
 }
 
 h1 {
-  font-family:Comic Sans MS ;
+  font-family: Comic Sans MS;
   font-style: italic;
   color: #000000;
-  text-align:center;
+  text-align: center;
 }
-h2{ 
- font-style: cursive;
-  text-align:center;
+h2 {
+  font-style: cursive;
+  text-align: center;
 }
-h4{ 
-font-family: Tahoma;
-color:red;
+h4 {
+  font-family: Tahoma;
+  color: red;
 }
-p9{
-  font-family:Times New Roman;
-  }
-p10{
-  color:red;
+p9 {
+  font-family: Times New Roman;
 }
-p12{
-font-size:2000px;
+p10 {
+  color: red;
 }
