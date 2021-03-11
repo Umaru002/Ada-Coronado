@@ -9,12 +9,16 @@ h1 {
   font-family:Comic Sans MS ;
   font-style: italic;
   color: #000000;
+  text-align:center;
 }
 h2{ 
  font-style: cursive;
  color: red;
 }
+h4{ 
+font-family: Tahoma;
+color:red;
+}
 p9{
   font-family:Times New Roman;
-  
-}
+  }
