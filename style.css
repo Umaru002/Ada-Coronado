@@ -3,7 +3,6 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  
 }
 
 h1 {
@@ -23,10 +22,14 @@ p9 {
 p10 {
   color: red;
 }
+ol :first-letter{
+  background-color: pink;
+  font-size: 160%;
+  color: red;
+}
 hr {
   clear: both;
 }
-
 img {
-  float: left;
+  float: right;
 }
