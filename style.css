@@ -23,3 +23,10 @@ p9 {
 p10 {
   color: red;
 }
+hr {
+  clear: both;
+}
+
+img {
+  float: left;
+}
